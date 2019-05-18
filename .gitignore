@@ -88,3 +88,5 @@ compile_commands.json
 *.vcxproj.user
 **/.vs/*
 
+auto.sh
+stellar-core.cfg
